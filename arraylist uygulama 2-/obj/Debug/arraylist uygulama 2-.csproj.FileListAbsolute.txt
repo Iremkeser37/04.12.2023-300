@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\KORUMASIZ\irem10-A\arraylist uygulama 2-\arraylist uygulama 2-\bin\Debug\arraylist uygulama 2-.exe.config
+C:\Users\User\Desktop\KORUMASIZ\irem10-A\arraylist uygulama 2-\arraylist uygulama 2-\bin\Debug\arraylist uygulama 2-.exe
+C:\Users\User\Desktop\KORUMASIZ\irem10-A\arraylist uygulama 2-\arraylist uygulama 2-\bin\Debug\arraylist uygulama 2-.pdb
+C:\Users\User\Desktop\KORUMASIZ\irem10-A\arraylist uygulama 2-\arraylist uygulama 2-\obj\Debug\arraylist uygulama 2-.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\KORUMASIZ\irem10-A\arraylist uygulama 2-\arraylist uygulama 2-\obj\Debug\arraylist uygulama 2-.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\KORUMASIZ\irem10-A\arraylist uygulama 2-\arraylist uygulama 2-\obj\Debug\arraylist_uygulama_2_.Form1.resources
+C:\Users\User\Desktop\KORUMASIZ\irem10-A\arraylist uygulama 2-\arraylist uygulama 2-\obj\Debug\arraylist_uygulama_2_.Properties.Resources.resources
+C:\Users\User\Desktop\KORUMASIZ\irem10-A\arraylist uygulama 2-\arraylist uygulama 2-\obj\Debug\arraylist uygulama 2-.csproj.GenerateResource.cache
+C:\Users\User\Desktop\KORUMASIZ\irem10-A\arraylist uygulama 2-\arraylist uygulama 2-\obj\Debug\arraylist uygulama 2-.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\KORUMASIZ\irem10-A\arraylist uygulama 2-\arraylist uygulama 2-\obj\Debug\arraylist uygulama 2-.exe
+C:\Users\User\Desktop\KORUMASIZ\irem10-A\arraylist uygulama 2-\arraylist uygulama 2-\obj\Debug\arraylist uygulama 2-.pdb
